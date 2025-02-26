@@ -1,0 +1,2 @@
+training time : 1691.889447927475 s
+testing time  : 4.1482686996459964e-05 s
